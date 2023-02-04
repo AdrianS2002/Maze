@@ -1,0 +1,21 @@
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.exe.config
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.exe
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.pdb
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csprojAssemblyReference.cache
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.Form1.resources
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.Properties.Resources.resources
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csproj.GenerateResource.cache
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csproj.CoreCompileInputs.cache
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.exe
+D:\A\Schiop Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.pdb
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csprojAssemblyReference.cache
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.Form1.resources
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.Properties.Resources.resources
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csproj.GenerateResource.cache
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.csproj.CoreCompileInputs.cache
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.exe
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.pdb
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.exe.config
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.exe
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\bin\Debug\P1_Schiop_Adrian.pdb
+D:\Clasa 12_ c#\P1_Schiop_Adrian\P1_Schiop_Adrian\P1_Schiop_Adrian\obj\Debug\P1_Schiop_Adrian.Form2.resources
